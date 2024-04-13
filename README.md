@@ -2,8 +2,8 @@
 
 ### Hi there, i'm DAK 🌙 <img src="https://cdn.discordapp.com/attachments/1177303014034382978/1225918163905155152/360.png?ex=6622e042&is=66106b42&hm=b12ac55175d0833b10ef4488e80a67d90d58c1030e76922923e6ed325c9796cb&" width="80">
 
-- 🔎👤 I'm a: OSINT freelancer, able to work with digital forensis. - I already worked with organizations that combat child exploitation. 
-- </> Currently doing: systems analysis college, my goal is to gain knowledge in the area of ​​programming to create programs that facilitate and improves OSINT.
+- 🔎👤 I'm a: OSINT freelancer, able to work with digital forensis. - I already worked with private organizations that combat child exploitation. 
+- </> Currently doing: systems analysis college, my goal is to gain knowledge in the area of ​​programming to create programs that facilitate and improves OSINT and information gathering.
 - 💻 My main goal is: work with InfoSec.
 - 🗣️ Language: I Speak Portuguese and English.
 
