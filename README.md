@@ -1,6 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/1177303014034382978/1225929082106286121/0loe47OVCO3okdX26eQAf1toOvbr69KAkCINBxAuj7HUeMD4AACBSYQPednALDRtNBAARAAARAIE8E4GjlSRqoCwiAQDsJ9I2Tg4G4nWLHu0AABEAABEAABEAABEBgcAn8CWGj5ILjJ8EhAAAAAElFTkSuQmCC.png?ex=6622ea6d&is=6610756d&hm=93811ce60657a27d13c0be328b583b76027bd673c739b7703e45ccbef99534c5&" width="600">
 
-### Hi there, i'm DAK 🌙 <img src="https://cdn.discordapp.com/attachments/1177303014034382978/1225918163905155152/360.png?ex=6622e042&is=66106b42&hm=b12ac55175d0833b10ef4488e80a67d90d58c1030e76922923e6ed325c9796cb&" width="80">
+
+### Hi there, i'm DAK 🌙 
 
 - 🔎👤 I'm a: OSINT freelancer, able to work with digital forensis. - I already worked with private organizations that combat child exploitation. 
 - </> Currently doing: systems analysis college, my goal is to gain knowledge in the area of ​​programming to create programs that facilitate and improves OSINT and information gathering.
@@ -19,7 +19,3 @@ Personal preference: I have willingness to work at night, it's the time i have m
 # Contact form 💬
 
 #### <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-discord-9185430-7516828.png" width="20"> My discord tag is: dak_op_cat
-
-#
-
-<img src="https://cdn.discordapp.com/attachments/1177303014034382978/1225929082106286121/0loe47OVCO3okdX26eQAf1toOvbr69KAkCINBxAuj7HUeMD4AACBSYQPednALDRtNBAARAAARAIE8E4GjlSRqoCwiAQDsJ9I2Tg4G4nWLHu0AABEAABEAABEAABEBgcAn8CWGj5ILjJ8EhAAAAAElFTkSuQmCC.png?ex=6622ea6d&is=6610756d&hm=93811ce60657a27d13c0be328b583b76027bd673c739b7703e45ccbef99534c5&" width="600">
