@@ -14,7 +14,7 @@ Personal preference: I have willingness to work at night, it's the time i have m
 
 ## Top Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakzinh&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakopcat&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contact form 💬
 
