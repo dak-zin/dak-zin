@@ -12,10 +12,6 @@
 #### <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="20"> I have experiences with MySQL, as i worked in some E-commerce projects that involved PHP & MYSQL
 Personal preference: I have willingness to work at night, it's the time i have more work efficiency.
 
-## Top Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakopcat&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 # Contact form 💬
 
-#### <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-discord-9185430-7516828.png" width="20"> My discord tag is anarcho_dak
+#### <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-discord-9185430-7516828.png" width="20"> My discord tag is dakzinhu
