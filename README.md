@@ -14,4 +14,4 @@ Personal preference: I have willingness to work at night, it's the time i have m
 
 # Contact form 💬
 
-#### <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-discord-9185430-7516828.png" width="20"> My discord tag is dakzinhu
+#### <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-discord-9185430-7516828.png" width="20"> My discord tag is dakzinhuwu
