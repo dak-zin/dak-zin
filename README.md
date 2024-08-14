@@ -1,17 +1,16 @@
+### Hi there, I'm DAK 🌙
 
+- 🔎👤 **Profession**: OSINT freelancer with expertise in digital forensics. I have previously worked with private organizations focused on combating child exploitation.
+- </> **Currently Studying**: Systems analysis in college, aiming to gain knowledge in programming to develop tools that enhance OSINT and information gathering.
+- 💻 **Career Goal**: To work in Information Security (InfoSec).
+- 🗣️ **Languages**: Portuguese and English.
 
-### Hi there, i'm DAK 🌙 
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="20"> I have extensive experience with Python, having worked on various projects and completed courses. I am familiar with libraries such as `random`, `requests`, `math`, `sockets`, `os`, `decimal`, `argparse`, and `numpy`.
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" width="20"> PHP is my second preferred programming language for InfoSec and automating requests. I have experience building CLI PHP pentesting tools and backend development.
+#### <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="20"> I have experience with MySQL from working on e-commerce projects involving PHP and MySQL.
 
-- 🔎👤 I'm a: OSINT freelancer, able to work with digital forensis. - I already worked with private organizations that combat child exploitation. 
-- </> Currently doing: systems analysis college, my goal is to gain knowledge in the area of ​​programming to create programs that facilitate and improves OSINT and information gathering.
-- 💻 My main goal is: work with InfoSec.
-- 🗣️ Language: I Speak Portuguese and English.
+**Personal Preference**: I am willing to work at night, as I find I am more efficient during this time.
 
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="20">  I have a lot of experience with python, worked on several projects and taken courses. (I am familiar with the libraries: random, requests, math, sockets, os, decimal, argparse, numpy);
-#### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png" width="20"> PHP is the second prog. lang. i prefer for InfoSec/Automatizing requests, i have experience with building CLI PHP pentesting tools and Back-end development with it.
-#### <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="20"> I have experiences with MySQL, as i worked in some E-commerce projects that involved PHP & MYSQL
-Personal preference: I have willingness to work at night, it's the time i have more work efficiency.
+# Contact Form 💬
 
-# Contact form 💬
-
-#### <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-discord-9185430-7516828.png" width="20"> My discord tag is dakzinhuwu
+#### <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-discord-9185430-7516828.png" width="20"> My Discord tag is dakzinhuwu
