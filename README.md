@@ -1,6 +1,6 @@
 ### Hi there, I'm DAK 🌙
 
-- 🔎👤 **Profession**: OSINT freelancer with expertise in digital forensics. I have previously worked with private organizations focused on combating child exploitation.
+- 🔎👤 **Profession**: OSINT freelancer.
 - </> **Currently Studying**: Systems analysis in college, aiming to gain knowledge in programming to develop tools that enhance OSINT and information gathering.
 - 💻 **Career Goal**: To work in Information Security (InfoSec).
 - 🗣️ **Languages**: Portuguese and English.
