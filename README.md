@@ -10,7 +10,3 @@
 #### <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="20"> I have experience with MySQL from working on e-commerce projects involving PHP and MySQL.
 
 **Personal Preference**: I am willing to work at night, as I find I am more efficient during this time.
-
-# Contact Form 💬
-
-#### <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-discord-9185430-7516828.png" width="20"> My Discord tag is dakzinhuwu
