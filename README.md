@@ -1,5 +1,7 @@
 ### Hi there, I'm DAK 🌙
 
+<img src="https://i.ibb.co/YTLwTtF/image.png">
+
 - 🔎👤 **Profession**: OSINT freelancer.
 - </> **Currently Studying**: Systems analysis in college, aiming to gain knowledge in programming to develop tools that enhance OSINT and information gathering.
 - 💻 **Career Goal**: To work in Information Security (InfoSec).
